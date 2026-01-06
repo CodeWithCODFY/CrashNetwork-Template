@@ -106,7 +106,7 @@ The server IP is fetched via:
 ## 📬 Contact
 Discord: [Join My Discord Server!](https://dsc.gg/code-with-codfy)
 
-Email: rishav.codfy2013@gmail.com
+Email: therealcodfy@gmail.com
 
 ---
 
