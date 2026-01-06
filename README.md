@@ -1,4 +1,4 @@
-# 🌐 CrashNetwork Website
+# 🌐 CrashNetwork Website Template
 
 ![Status](https://img.shields.io/badge/status-not%20fully%20developed-orange?style=for-the-badge)
 
