@@ -1,6 +1,6 @@
 # 🌐 CrashNetwork Website Template
 
-![Status](https://img.shields.io/badge/status-not%20fully%20developed-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-In%20Development-orange?style=for-the-badge)
 
 This is the template website for **CrashNetwork**, made for a client of mine!  
 It provides players with information about the server, live player counts, gamemodes, store links, and contact details.
